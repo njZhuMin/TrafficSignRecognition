@@ -1,0 +1,6 @@
+./../../data/marks/pad-all/ph3.5.png
+0
+./../../data/marks/pad-all/pl40.png
+19
+./../../data/marks/pad-all/pm10.png
+27
